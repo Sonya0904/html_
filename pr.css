@@ -1,0 +1,110 @@
+h1{
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 96px;
+  padding-bottom: 40px;
+}
+
+h2{
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 96px;
+  padding-bottom: 40px;
+}
+
+.title-color{
+  color: #FD665E;
+}
+
+.str{
+  display: flex;
+  flex-direction: row;
+  gap: 70px;
+}
+
+.btn1{
+   background: #FD665E;
+   color: antiquewhite;
+   gap: 10px;
+   top: 8px;
+   right: 32px;
+   bottom: 8px;
+   left: 32px;
+   border-radius: 15px;
+   border-color: #FD665E;
+}
+
+.btn2{
+   display: flex;
+   background: #FD665E;
+   color: antiquewhite;
+   gap: 10px;
+   border-radius: 15px;
+   border-color: #FD665E;
+   margin: 0 auto;
+}
+
+.container{
+  min-width: 120px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.carousel-inner{
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  bottom: 50px;
+}
+
+.skrrrr{
+  display: flex;
+  flex-direction: row;
+}
+
+h3{
+  margin-left: 300px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+}
+
+h4{
+  margin-top: 50px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 40px;
+}
+
+.dr{
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+}
+
+.t{
+    margin-left: 100px;
+}
+
+.icon{
+    margin-left: 90px;
+    height: 70px;
+    width: 70px;
+}
+
+.koska{
+    height: 30px;
+    width: 40px;
+}
+
+.mcw{
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+  gap:20px;
+  justify-content: center;
+}
+
