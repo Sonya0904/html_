@@ -48,6 +48,7 @@ h2{
    margin: 0 auto;
 }
 
+
 .container{
   min-width: 120px;
   margin: 0 auto;
@@ -74,6 +75,20 @@ h3{
 
 h4{
   margin-top: 50px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 40px;
+}
+
+h5{
+  margin-top: 50px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 40px;
+}
+
+h6{
+   margin-top: 50px;
   font-family: "Roboto Condensed", sans-serif;
   font-optical-sizing: auto;
   font-size: 40px;
@@ -107,4 +122,27 @@ h4{
   gap:20px;
   justify-content: center;
 }
+
+.prrr{
+  display: flex;
+  justify-content: center; 
+  gap: 450px;
+}
+
+.nov{
+  display: flex;
+  flex-direction: row;
+}
+
+.tap{
+  margin-left: 300px;
+  margin-top: 80px;
+}
+
+.now{
+  display: flex;
+  flex-direction: row;
+   gap: 450px;
+}
+
 
